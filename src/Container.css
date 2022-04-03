@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container__logo {
+  position: relative;
+  top: 3rem;
+  left: 5rem;
+  width: 200px;
+}

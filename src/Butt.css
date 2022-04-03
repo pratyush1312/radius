@@ -1,0 +1,16 @@
+.butt {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+  top: 6rem;
+}
+
+.left_button {
+  display: flex;
+  justify-content: space-between;
+}
+
+.butt_search {
+  width: 50px;
+}
